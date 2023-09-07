@@ -120,7 +120,7 @@
         <strimzi-oauth.version>0.8.1</strimzi-oauth.version>
         <commons-codec.version>1.13</commons-codec.version>
         <commons-compress.version>1.21</commons-compress.version>
-        <registry.version>1.3.2.Final</registry.version>
+        <registry.version>2.4.6.Final</registry.version>
 
         <test-containers.version>1.15.2</test-containers.version>
         <docker-java.version>3.2.7</docker-java.version>
